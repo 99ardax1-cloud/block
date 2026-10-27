@@ -1,0 +1,6 @@
+{
+  "name": "Focus Lock — Android & Flutter Architect Studio",
+  "description": "O'quv markazlari uchun Focus Lock (Kiosk Mode / App Blocker) Android Native (Kotlin) arxitekturasi, EncryptedSharedPreferences, SystemClock.elapsedRealtime() simulyatori va Admin Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
